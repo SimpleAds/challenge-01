@@ -38,6 +38,6 @@ Ao escrever um termo no campo de pesquisar, executar as seguintes ações:
 
 ### 4. Como enviar
 
-- Gere um dump do banco de inclua dentro de uma pasta na raiz do projeto;
+- Gere um dump do banco e inclua dentro de uma pasta na raiz do projeto;
 - Inclua um readme.md com instrução para instalação;
 - Publique no Github e envie para o email do seu recrutador.
